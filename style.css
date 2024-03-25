@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#addPartyForm {
+  margin-top: 20px;
+}
+
+#addPartyForm input, #addPartyForm button {
+  margin: 5px 0;
+}
